@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Declaration and manifesto of the Protestants of the vallies of Piedmont, called the Vaudois to all Christian princes &amp; states, of the reasons of their taking up arms just now against the Duke of Savoy, and why they have put themselves under the protection of William, King of Great Britain, and of the evangelick cantons of Switzerland / done out of High Dutch.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37327</idno>
+            <idno type="STC">Wing D531A</idno>
+            <idno type="STC">ESTC R4934</idno>
+            <idno type="EEBO-CITATION">11792323</idno>
+            <idno type="OCLC">ocm 11792323</idno>
+            <idno type="VID">49269</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49269)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 25:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Declaration and manifesto of the Protestants of the vallies of Piedmont, called the Vaudois to all Christian princes &amp; states, of the reasons of their taking up arms just now against the Duke of Savoy, and why they have put themselves under the protection of William, King of Great Britain, and of the evangelick cantons of Switzerland / done out of High Dutch.</title>
+               </titleStmt>
+               <extent>11 [i.e. 12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Salusbury ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed February the 8th, 1689/90"</note>
+                  <note>Numbering for p. 11 repeated.</note>
+                  <note>Advertisements: p. [12].</note>
+                  <note>Reproduction of original in Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waldenses.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49269:1"/>
+            <pb facs="tcp:49269:1" rendition="simple:additions"/>
+            <p>THE Declaration and Manifeſto OF THE PROTESTANTS OF THE VALLIES of PIEDMONT, CALLED THE VAUDOIS, TO ALL Chriſtian PRINCES &amp; STATES, OF THE REASONS of their taking up ARMS juſt now againſt the Duke of <hi>SAVOY.</hi>
+            </p>
+            <p>And why they have put themſelves under the Protection of <hi>WILLIAM,</hi> King of <hi>Great Britain,</hi> and of the Evangelick Cantons of <hi>Swit<g ref="char:EOLhyphen"/>zerland.</hi>
+            </p>
+            <p>
+               <hi>Done out of</hi> High Dutch.</p>
+            <p>Licenſed <hi>February</hi> the 8th. 1689/90.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Salusbury,</hi> at the Sign of the <hi>Temple</hi> near <hi>Temple-Bar</hi> in <hi>Fleet-ſtreet,</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49269:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:49269:2" rendition="simple:additions"/>
+            <head>TO ALL <hi>Chriſtian Emperors,</hi> Kings, Princes, and States, THE Remonſtrance <hi>and</hi> Declarations OF US <hi>The Native and Ancient Inhabitants of the</hi> Vallies <hi>of</hi> Lucerne, Pie<g ref="char:EOLhyphen"/>rouſe, <hi>and</hi> St. Martin, <hi>commonly called the</hi> Vallies <hi>of</hi> Piedmont, <hi>Greeting.</hi>
+            </head>
+            <p>IT is not unknown to all <hi>Europe,</hi> That of Time out of Mind, we and our <hi>Anceſtors</hi> have been in the uninterrupted Poſſeſſion of the afore<g ref="char:EOLhyphen"/>ſaid <hi>Vallies,</hi> and of the ſame Religion which we profeſs at this very day, without any conſide<g ref="char:EOLhyphen"/>rable Alteration either in <hi>Doctrine</hi> or <hi>Diſcipline:</hi> And
+<pb n="4" facs="tcp:49269:3"/>
+that under the Succeſſive Reigns of the Princes of <hi>Piedmont</hi> and <hi>Pignerol:</hi> And that at length about <hi>Four Hundred</hi> Years ago, upon the failing of the <hi>Princes</hi> of that Family, we put our ſelves under the Dominion of the <hi>Houſe of Savoy,</hi> upon certain <hi>Con<g ref="char:EOLhyphen"/>ditions</hi> and <hi>Articles</hi> then agreed on for Security of our Religion and Liberties.</p>
+            <p>Under which Family of <hi>Savoy</hi> our Anceſtors lived in the greateſt Peace and Eaſe for two Ages and more, till by the unhappy Counſels of ſome about our <hi>Princes,</hi> we were put to great Severities in the laſt Age, on the Account of Religion; not<g ref="char:EOLhyphen"/>withſtanding whereof, Their <hi>Royal Highneſſes</hi> were pleaſed at ſeveral times, and upon ſeveral occaſions, to Ratifie our <hi>Rights</hi> and <hi>Priviledges,</hi> and to grant us full and free Liberty in the Exerciſe of our Re<g ref="char:EOLhyphen"/>ligion; and particularly in the Years 1561, 1602, 1603, and in the Year 1620. All which were Formally and Solemnly <hi>Ratified</hi> and Enrolled in the <hi>Chamber</hi> of <hi>Turin,</hi> and declared to be <hi>Irrevocable, Inviolable,</hi> and <hi>Perpetual</hi> Laws: And the Execution thereof was Ordained by ſeveral <hi>Decrees</hi> of the ſaid <hi>Chamber,</hi> and by the <hi>Senate</hi> of <hi>Turin,</hi> in the years 1638, 1649, 1654, and 1655.</p>
+            <p>In which year 1655, the <hi>Council de Propaganda fide,</hi> ſetled at <hi>Turin</hi> ſome years before, taking the Occaſion of the <hi>Minority</hi> of <hi>Charles Emanuel,</hi> then <hi>Duke of Savoy,</hi> cauſed to be Publiſhed an <hi>Edict,</hi> Ordering all the Inhabitants of the <hi>Vallies</hi> to quit them within three days, and to retire to the Moun<g ref="char:EOLhyphen"/>tains,
+<pb n="5" facs="tcp:49269:3"/>
+under the pain of Death, in caſe they did not Renounce and Abjure their Religion they had been Educated in. And albeit the ſaid <hi>Inhabitants</hi> did really Obey this Unjuſt Order, as much as the ſhort<g ref="char:EOLhyphen"/>neſs of time granted them would allow, by making ready to Remove, yet upon it fell out that <hi>Horrid and Execrable Maſſacre,</hi> whereof all <hi>Europe</hi> has to this day an Abhorrence. But at length, by the In<g ref="char:EOLhyphen"/>terceſſion of ſeveral Chriſtian <hi>Princes</hi> and <hi>States</hi> with the then <hi>Duke of Savoy,</hi> and the <hi>Dutcheſs,</hi> then Regent, the ſaid Cruel <hi>Edict</hi> of putting us all <hi>to the edge of the Sword,</hi> was recalled, and a new <hi>Confirma<g ref="char:EOLhyphen"/>tion</hi> given <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> as to <hi>Our</hi> whole Liberties, and the free Exerciſe of our Religion, upon the 9th of <hi>Auguſt</hi> 1655. which was thereafter enrolled in the <hi>Senate</hi> and <hi>Chamber</hi> of <hi>Turin.</hi>
+            </p>
+            <p>Notwithſtanding this <hi>Confirmation</hi> of our Privi<g ref="char:EOLhyphen"/>ledges, ſeveral bad <hi>Miniſters</hi> did in many particulars infringe it by Oppreſſions and deſigned ſtretches of Law; and at laſt, in the Year 1663, they re-acted the ſame Tragedies upon <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> as they had done in the Year 1655. At which time, at the interceſſion of the ſame Chriſtian Princes, we obtained another Solemn, Irrevocable, and Perpetual <hi>Patent</hi> in the Month of <hi>February</hi> 1664, likewiſe Ratified in the <hi>Senate</hi> and <hi>Chamber</hi> of <hi>Turin.</hi>
+            </p>
+            <p>Since which time, We, the <hi>Inhabitants</hi> of the <hi>Val<g ref="char:EOLhyphen"/>lies,</hi> lived in great Peace, and did many Remarkable and Important Services to the late <hi>Duke of Savoy,</hi> Fa<g ref="char:EOLhyphen"/>ther to his preſent <hi>Royal Highneſs,</hi> and to his <hi>Royal
+<pb n="6" facs="tcp:49269:4" rendition="simple:additions"/>
+Highneſs</hi> himſelf, both in <hi>the War againſt the State and Republick of Genoa</hi> in the Year 1672. and a<g ref="char:EOLhyphen"/>gainſt the <hi>Banditti</hi> in <hi>Mondovi</hi> in the Year 1681, and 1684. As was acknowledged by his <hi>Royal High<g ref="char:EOLhyphen"/>neſs</hi> in his <hi>Letters</hi> written to <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> on that Occaſion, which was alſo <hi>Inrolled</hi> in the <hi>Chamber</hi> of <hi>Accounts</hi> of <hi>Turin.</hi>
+            </p>
+            <p>Thus <hi>We</hi> reſted ſecure of our own Innocence, and of the many reiterated Aſſurances of his <hi>Royal High<g ref="char:EOLhyphen"/>neſſes</hi> Favour to and Protection of <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> till the 31st. day of <hi>January</hi> 1685. At which time, without any imaginable Provocation on our part, there was pub<g ref="char:EOLhyphen"/>liſhed in the <hi>Vallies</hi> an <hi>Edict</hi> of his <hi>Royal Highneſs</hi> the <hi>Duke of Savoy, Prohibiting the Exerciſe of our Re<g ref="char:EOLhyphen"/>ligion upon pain of Death, and Confiſcation of Move<g ref="char:EOLhyphen"/>ables, ordering all our Churches to be immediately De<g ref="char:EOLhyphen"/>moliſhed, all our Miniſters to be Baniſhed, all our Chil<g ref="char:EOLhyphen"/>dren to be Educated and Baptized in the Roman Ca<g ref="char:EOLhyphen"/>tholick Religion.</hi>
+            </p>
+            <p>This Dreadful <hi>Edict</hi> was received among <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> with the greateſt Aſtoniſhment, and in a moment ſeem'd to diſanimate <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> altogether.</p>
+            <p>But at length we ſo far recovered our ſelves from our Conſternation, as to fall upon the ordinary means we had many times try'd before; And con<g ref="char:EOLhyphen"/>ſidering that it was more the effect of bad Counſel, than from the Natural Inclinations of his <hi>Royal High<g ref="char:EOLhyphen"/>neſs</hi> himſelf, of whoſe good Intentions towards <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> we had ſo many Proofs: We had Recourſe to <hi>Sup<g ref="char:EOLhyphen"/>plications,</hi> and preſented his <hi>Royal Highneſs</hi> four ſe<g ref="char:EOLhyphen"/>veral <hi>Petitions</hi> for recalling this Bloody <hi>Order;</hi> and at
+<pb n="7" facs="tcp:49269:4" rendition="simple:additions"/>
+the ſame time made our <hi>Addreſs</hi> to the <hi>Evangelick Cantons</hi> of <hi>Switzerland,</hi> to Intercede with his <hi>Royal Highneſs</hi> on our behalf.</p>
+            <p>Whereupon in an <hi>Aſſembly</hi> of the ſaid <hi>Cantons,</hi> held at <hi>Baden</hi> in the Month of <hi>February</hi> 1686. they di<g ref="char:EOLhyphen"/>ſpatch'd <hi>Embaſſadors</hi> to his <hi>Royal Highneſs</hi> at <hi>Turin,</hi> to ſollicit the Revocation of that <hi>Edict</hi> againſt <hi>
+                  <g ref="char:V">Ʋ</g>s;</hi> And all the Anſwer they could obtain, was, That <hi>It was not in his power to recall the Edict, becauſe his Royal Highneſs had paſt his Word to the Moſt Chriſtian King already to the contrary.</hi> Whereupon the Em<g ref="char:EOLhyphen"/>baſſadors of the <hi>Evangelick Cantons,</hi> ſeeing no other way at preſent to ſave <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> propos'd to the <hi>Court</hi> of <hi>Turin,</hi> That We, the Inhabitants of the <hi>Vallies,</hi> might have leave betwixt that and a fixt time, to depart to any other Country, with our Families and Goods, under the <hi>Duke of Savoy's Safe Conduct.</hi> And to this end, the ſaid Embaſſadors procured leave from his <hi>Royal Highneſs</hi> to allow certain <hi>Deputies</hi> of <hi>Ours</hi> to come to <hi>Turin,</hi> in order to concert and agree on the <hi>Articles.</hi>
+            </p>
+            <p>But in the mean time that we were meeting in an Aſſembly at <hi>Angr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gne</hi> about this Affair, came out a <hi>Second Order</hi> from his <hi>Royal Highneſs,</hi> unknown to the ſaid Embaſſadors, bearing Date <hi>Ninth</hi> of <hi>April</hi> 1686, for an <hi>Amneſty</hi> to the Inhabitants of the <hi>Val<g ref="char:EOLhyphen"/>lies,</hi> upon Condition they immediately remove out of his <hi>Royal Highneſſes</hi> Countries, with their Fami<g ref="char:EOLhyphen"/>lies and Goods, But the <hi>Order</hi> ſo clog'd and full of Limitations and Reſtrictions, that it was palpable to every body, that it was nothing but a Snare to in<g ref="char:EOLhyphen"/>trap
+<pb n="8" facs="tcp:49269:5" rendition="simple:additions"/>
+               <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> and to delude the Sollicitations of the Em<g ref="char:EOLhyphen"/>baſſadors of the <hi>Evangelick Cantons:</hi> For according to the Terms of this Order, <hi>We were to Remove in ſo few days, to leave ſuch and ſuch things behind us; we were to be ſeparated in ſmall Troops, ſo many miles from one another,</hi> That we expected to be juſt ſo treated as in the <hi>Maſſacre</hi> in the Year 1655. Upon which ſad Juncture, we reſolved to ſtand to our own Innocent and Lawful Defence, till we might appeaſe by Foreign Interceſſions the Wrath of the <hi>Duke of Savoy,</hi> and obtain for our ſelves a laſting Peace.</p>
+            <p>In perſeverance of this Reſolution, It's known ſufficiently to all the World, what dreadful <hi>Afflicti<g ref="char:EOLhyphen"/>ons, Murthers, Rapes, Tortures,</hi> and all manner of <hi>Barbarities</hi> we ſuffered by an Army of <hi>Savoy</hi> on the one hand, and of <hi>France</hi> on the other, till we were re<g ref="char:EOLhyphen"/>duced to a poor handful of <hi>ſtarved</hi> and <hi>infirm</hi> Crea<g ref="char:EOLhyphen"/>tures, whereof the moſt of them periſhed in the <hi>Mountains</hi> for Hunger. And at laſt, the miſerable re<g ref="char:EOLhyphen"/>mainder; after our Enemies had ſufficiently glutted their Rage with the Blood of our Brethren, were ſent away to <hi>Geneva</hi> and <hi>Switzerland</hi> in the moſt deplo<g ref="char:EOLhyphen"/>rable Condition that ever was ſeen in the World: Many of <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> dying in the Road through Cold and Sickneſs. Since which time we have been forced to wander in ſtrange Countries, where we have been againſt our wills burthenſom to the Inhabitants, who have ſhewed <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> a Chriſtian Sympathy and Com<g ref="char:EOLhyphen"/>paſſion.</p>
+            <p>
+               <pb n="9" facs="tcp:49269:5" rendition="simple:additions"/>We, <hi>the Inhabitants of the foreſaid Vallies,</hi> Con<g ref="char:EOLhyphen"/>ſidering that by no Laws of God, or juſt Conſtitu<g ref="char:EOLhyphen"/>tions of Men, we can be juſtly thrown out of our <hi>Native Country,</hi> and debarred from the Exerciſe of our Ancient Religion, which both the one and the other, we and our Fathers have enjoyed and poſ<g ref="char:EOLhyphen"/>ſeſſed through a great many Ages. And <hi>Conſidering</hi> that his <hi>Royal Highneſs</hi> and his Predeceſſors have at ſeveral times Ratified to <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> and our <hi>Anceſtors,</hi> the Liberties of our Country, the Property of our Goods, and the free Exerciſe of our Religion: And that the ſaid <hi>Ratifications</hi> were declared to be Irrevocable and Perpetual Laws. And likewiſe <hi>Conſidering,</hi> That We, <hi>the ſaid Inhabitants of the ſaid Vallies,</hi> are perſwaded in our Conſciences, <hi>That it's our Duty to Vindicate and Aſſert our Religion and Properties with our Sword,</hi> they having been granted to <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> upon juſt grounds and motives by our Princes. We therefore, truſting in the Protection, Help, and Aſſiſtance of the Al<g ref="char:EOLhyphen"/>mighty God, the Lord of Hoſts, do Declare and make known to all Chriſtian <hi>Emperours, Kings, Princes, and Free States,</hi> That we reſolve <hi>to ſtand by, Vindicate, and Maintain our Lives, Religion, Li<g ref="char:EOLhyphen"/>berties, and Properties</hi> with open Force, and in a Defenſive way; and not to lay down our Arms, till we have procured to our ſelves the free and peace<g ref="char:EOLhyphen"/>able Poſſeſſion of our <hi>Country, Goods, Lives, Reli<g ref="char:EOLhyphen"/>gion, and Liberties,</hi> in the ſame manner as we en<g ref="char:EOLhyphen"/>joyed them before the Year 1684; and as is con<g ref="char:EOLhyphen"/>tained in all the <hi>Ratifications</hi> granted to <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> and our <hi>Anceſtors</hi> above-mentioned. <hi>Declaring,</hi> That We by this our moſt warrantable and juſt Defence intend
+<pb n="10" facs="tcp:49269:6" rendition="simple:additions"/>
+not to diminiſh, detract from, or lay aſide any of the juſt and lawful Prerogatives, Preheminencies, Cuſtoms, Juriſdictions, or Royalties due to <hi>His Royal Highneſs</hi> and his <hi>Succeſſors,</hi> from <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> and our Succeſ<g ref="char:EOLhyphen"/>ſors; But that we are willing, and ſhall ever pay his ſaid <hi>Royal Highneſs</hi> and his Succeſſors all due Allegi<g ref="char:EOLhyphen"/>ance and Homage, which can conſiſt with the free Liberty of our Religion; and with the peaceable En<g ref="char:EOLhyphen"/>joyment of our Goods, Liberties, and Properties.</p>
+            <p>And We, <hi>the ſaid Inhabitants of the ſaid Vallies,</hi> do hereby in the <hi>Bowels of Jeſus Chriſt our common Saviour,</hi> Obteſt, Require, and Beg all Chriſtian <hi>Em<g ref="char:EOLhyphen"/>perours, Kings, Princes, and Free-States,</hi> that they would Compaſſionate our Condition, and Intercede with His <hi>Royal Highneſs the Duke of Savoy,</hi> for the Reſtoring to <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> the Rights, Properties, and Liber<g ref="char:EOLhyphen"/>ties that have been ſo cruelly and unjuſtly raviſhed from <hi>
+                  <g ref="char:V">Ʋ</g>s;</hi> and that they would procure to <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> a firm and laſting Peace, that we may no more be expoſed to ſuch horrid <hi>Barbarities</hi> and Diſtreſſes for the Re<g ref="char:EOLhyphen"/>ligion we derive from our Fathers, through the Suc<g ref="char:EOLhyphen"/>ceſſion of a great many paſt Ages.</p>
+            <p>And We, <hi>the ſaid Inhabitants of the ſaid Vallies,</hi> do hereby Declare, That We, in execution of this ſo juſt a Reſolution of Vindicating our Religion and Liberties by Arms, have at this time entred into the ſaid Valley of <hi>St. Martin,</hi> to take Poſſeſſion thereof as a part of our Native Country, out of which we were unjuſtly driven; and are reſolved, through the Bleſſing and Favour of Almighty God, to keep it, and to take Poſſeſſion, as ſoon as is poſſible, of the remanent <hi>Vallies</hi> and <hi>Territories,</hi> which juſtly belong
+<pb n="11" facs="tcp:49269:6" rendition="simple:additions"/>
+to <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> by an immemorial Right; Reſolving to keep the ſame without Prejudice to the juſt Prerogatives, Preheminencies, Cuſtoms, Juriſdictions, or Royal<g ref="char:EOLhyphen"/>ties, in or concerning the ſaid <hi>Vallies,</hi> due to <hi>His Royal Highneſs</hi> the <hi>Duke of Savoy,</hi> and his Succeſſors, as Prince of <hi>Piedmont,</hi> when ever a firm and laſting Peace ſhall be granted to <hi>
+                  <g ref="char:V">Ʋ</g>s.</hi>
+            </p>
+            <p>And laſtly, We, <hi>the ſaid Inhabitants of the ſaid Vallies of Piedmont,</hi> do Declare to all Chriſtian <hi>Em<g ref="char:EOLhyphen"/>perours, Kings, Princes, and States,</hi> That we have, and do hereby put our ſelves under the <hi>Protection</hi> and <hi>Patronage</hi> of the moſt <hi>Serene Prince</hi> William, <hi>King of</hi> Great Britain, <hi>and of the Illuſtrious and Noble the Evangelick Cantons of Switzerland;</hi> hoping and truſt<g ref="char:EOLhyphen"/>ing in their Aſſiſtance and good Offices, as alſo in the Aſſiſtance and good Offices of all other Chriſtian <hi>Emperours, Kings, Princes, and Free States,</hi> until there be a firm and laſting Peace obtained for <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> from his <hi>Royal Highneſs</hi> the <hi>Duke of Savoy,</hi> or his Succeſſors, and Ratified in the <hi>Senate</hi> and <hi>Chamber</hi> of <hi>Accounts</hi> of <hi>Turin.</hi>
+            </p>
+            <p>All which things above-mentioned, We hereby make known to all Chriſtian Princes and People, by this our Solemn Declaration, given at our Camp at <hi>Villeſech<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> in the <hi>Valley</hi> of <hi>St. Martin,</hi> this <hi>Sixth</hi> day of <hi>December,</hi> 1689.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:49269:7" rendition="simple:additions"/>
+            <head>ADVERTISEMENTS.</head>
+            <p>THE Hiſtory of the Late Revolution in <hi>England,</hi> with the Cauſes and Means by which it was Accompliſhed. Together with the <hi>Settlement</hi> thereof under Their Moſt Se<g ref="char:EOLhyphen"/>rene Majeſties King <hi>William</hi> and Queen <hi>Mary,</hi> by the <hi>Lords</hi> and <hi>Commons</hi> Aſſembled in this preſent Parliament.</p>
+            <p>Of the <hi>French Monarchy,</hi> and <hi>Abſolute Power.</hi> And alſo a Treatiſe of the Three States, and their Power. Deduced from the moſt Authentick Hiſtories, for above <hi>1200</hi> Years. <hi>Both Printed for</hi> Tho. Salusbury, <hi>at the Sign of the</hi> Temple <hi>near</hi> Temple-Bar <hi>in</hi> Fleet-ſtreet, <hi>1689.</hi>
+            </p>
+            <pb facs="tcp:49269:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
